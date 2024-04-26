@@ -20,7 +20,7 @@ Adding a simple AI to the Tic-Tac-Toe Game:
   - [Minimax Algorithm in Game Theory](https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-1-introduction/)
   - [Algorithms Explained – minimax and alpha-beta pruning](https://www.youtube.com/watch?v=l-hh51ncgDI)
 
-  
+  [
 # *Author* :
-- [Bharani](https://github.com/Bharani1611)  
+- [LinkedIN](https://www.linkedin.com/in/bharani-k-10824b299)  
 - [Github](https://github.com/Bharani1611)
